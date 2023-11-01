@@ -10,9 +10,7 @@ if(elemento != null && elemento.localName === 'audio'){
 }
 const lista = document.querySelectorAll('.tecla')    
 
-for (contador = 0; contador < lista.legnth;){}
-
-while(contador < 9, lista.legnth){
+for (contador = 0; contador < lista.legnth;){
     lista [contador].classList[1];
 
     const instrumento = lista[contador];
